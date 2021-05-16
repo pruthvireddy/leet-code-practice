@@ -9,3 +9,5 @@ A collection of useful Python code snippets and some coding problem solutions fr
 - Leet-Code
 
 - Algos-DataStructures
+  - Sorting Algorithms
+  - Search Algorithms
