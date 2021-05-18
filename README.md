@@ -1,4 +1,4 @@
-# Repo Details 
+# Repo Details
 
 A collection of useful Python code snippets and some coding problem solutions from leet-code ad educative.io websites.
 
@@ -8,4 +8,4 @@ A collection of useful Python code snippets and some coding problem solutions fr
 
 - Leet-Code
 
-- Algos-DataStruc
+- Algos-DataStructures
