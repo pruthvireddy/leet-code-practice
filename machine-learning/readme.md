@@ -1,4 +1,5 @@
 
+Computational COmplexity of different ML models - [Link](https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/)
 
 ## KNN
 
@@ -75,8 +76,84 @@ Scaling Required? - NO
 
 Continuous variables only?- NO 
 
-Tuning Params- Alpha
+Tuning Params- 
 
 File Size-  SMALL
 
 Speed of Prediction- FAST
+
+
+## Penalised Logistic Regression (L1,L2,Both)
+
+Can be used for -   Classification
+
+Scaling Required? - YES
+
+Continuous variables only?- NO 
+
+Tuning Params- C
+
+File Size-  SMALL
+
+Speed of Prediction- FAST
+
+## Support Vector Machines (SVM)
+
+Can be used for -   Classification and Regression
+
+Scaling Required? - Recommended (Continuous var. scaled, categorical variables on-hot encoded)
+
+Continuous variables only?- NO 
+
+Tuning Params- C and Gamma
+
+File Size-  SMALL
+
+Speed of Prediction- FAST
+
+
+## Decision Trees 
+
+Can be used for -   Classification and Regression
+
+Scaling Required? - NO
+
+Continuous variables only?- NO 
+
+Tuning Params- tree size
+
+File Size-  rel. SMALL
+
+Speed of Prediction- Slower than lin. reg or log reg
+
+
+
+## Bagged Trees 
+
+Can be used for -   Classification and Regression
+
+Scaling Required? - NO
+
+Continuous variables only?- NO 
+
+Tuning Params- tree size, number of trees, Gini 
+
+File Size-  Medium SMALL
+
+Speed of Prediction- Slower than lin. reg or log reg
+
+
+
+## Random Forest
+
+Can be used for -   Classification and Regression
+
+Scaling Required? - NO
+
+Continuous variables only?- NO 
+
+Tuning Params- tree size, number of trees, number of features
+
+File Size-  Medium SMALL
+
+Speed of Prediction- Slower than lin. reg or log reg
