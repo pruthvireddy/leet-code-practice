@@ -7,13 +7,13 @@ Can be used for -  Regression and Classification
 
 Scaling Required? -  YES, you get weird r-squared if not
 
-Continuous variables only?- 
+Continuous variables only?-  YES
 
-Tuning Params-
+Tuning Params- 'k'
 
-File Size- 
+File Size- Larger
 
-Speed of Prediction- 
+Speed of Prediction- Slower
 
 
 
